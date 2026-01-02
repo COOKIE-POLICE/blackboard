@@ -2,5 +2,4 @@
 
 /** export-ignore
 /addons !export-ignore
-/addons/gommand !export-ignore
-/addons/gommand/** !export-ignore
+/addons/** !export-ignore
